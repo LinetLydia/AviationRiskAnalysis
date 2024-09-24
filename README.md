@@ -1,3 +1,6 @@
+# Introduction
+In today's competitive and highly regulated aviation industry, ensuring the safety of aircraft is crucial for profitability and operational success. As the company ventures into the aviation sector, understanding which aircraft models presents the lowest risks becomes a key strategic priority. This analysis aims to provide insights  into identifying low risk aircraft models, uncovering low factors such as aircraft age and geographical location influence accident rates. By leveraging historical data on civil aircraft incidents, this project offers data driven recommendations that will guide the company in making informed and secure aircraft acquisition decisions.
+
 # Overview
 The goal of this project is to determine the safest aircraft for a company's new aviation division. The analysis focuses on identifying low risk aircraft models, understanding the relationship between aircraft age and safety and exploring geographical factors influencing accident rates. By evaluating these key-factors, actionable insights are provided to support the decision making process for aircraft acquisitions, helping the company select aircraft that minimize risk and maximize profitability.
 
