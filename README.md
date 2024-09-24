@@ -10,5 +10,11 @@ The main questions that drive this investigation are:
 2.According to past evidence, which aircraft are the least risky?
 3.How do we formulate recommendations for aircraft purchase based on data?
 
+# Data Understanding and Analysis
+Data Source: The National Transportation Safety Board provided the information, which covers civil aircraft accidents from 1962 to 2023 and includes international incidents.
+
+Description of the Data: The AviationData.csv file, which includes important information such aircraft models, incident types, locations, and safety records, was chosen due to its high quality. In order to learn more about low-risk aircraft and the variables impacting accident rates, techniques for data cleaning and analysis were used, such as handling missing information and identifying outliers.
+Visualizations:
+  1.https://public.tableau.com/views/tableau_17271296901530/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
